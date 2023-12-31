@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy&display=swap');
 
 .agoraphobia{
     color:transparent !important;
@@ -105,7 +107,7 @@
     }
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+
 
 .anaglyph{
   	font-family: 'Major Mono Display', monospace;
@@ -136,7 +138,6 @@
     }
 }
 
-@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy&display=swap');
 :root{
     --comicOutline:#333333
 }
@@ -263,6 +264,7 @@
   .glitch {
     animation: glitch 3s steps(100) infinite;
 }
+
 @keyframes glitch {
     0% {
         text-shadow: 3px 0 0 red, -3px 0 0 #0c33f5;
